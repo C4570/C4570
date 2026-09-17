@@ -46,12 +46,14 @@ Hoy me enfoco en **desarrollo con Python, ingeniería de datos y aplicaciones co
 ![AWS](https://img.shields.io/badge/AWS_RDS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+<!--
 ## Proyectos destacados 📌
 
 | Proyecto | Descripción | Estado |
 |---|---|---|
 | [**Históricos BCRA / INDEC**](https://github.com/USUARIO/REPO) | Servicio de ingesta y API para series financieras y económicas de Argentina | 🚧 En desarrollo |
 | [**Proyecto 2**](https://github.com/USUARIO/REPO) | Descripción breve | ✅ |
+-->
 
 ## Formación 🎓
 
@@ -64,8 +66,8 @@ Hoy me enfoco en **desarrollo con Python, ingeniería de datos y aplicaciones co
 
 Si tenés una propuesta o querés charlar sobre datos o IA, escribime:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianbritos/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julianfranciscobritos@gmail.com)
 
 ---
 
